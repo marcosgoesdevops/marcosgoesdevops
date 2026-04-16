@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://github.com/marcosgoesdevops/marcosgoesdevops/blob/main/banner.png">
+</div>
+
 # 👋 Hello, I'm Marcos
 
 🚀 DevOps / Site Reliability Engineer
@@ -20,33 +24,6 @@ My approach:
 
 ---
 
-## ⚙️ What I Work With
-
-### ☁️ Cloud & Infrastructure
-
-* Azure DevOps
-* Infrastructure as Code (Terraform, Helm Charts etc)
-* Container orchestration (K8s)
-
-### 🔄 CI/CD & Automation
-
-* Pipeline design (build, test, deploy)
-* Release strategies (blue/green, rolling)
-
-### 📊 Observability & Reliability
-
-* Metrics, logs, and tracing
-* SLIs / SLOs / SLAs
-* Incident response & postmortems
-
-### 🐳 Containers & Systems
-
-* Docker
-* Service communication & networking fundamentals
-* Performance and troubleshooting
-
----
-
 ## 📂 Projects
 
 ### 🚀 DevOps Projects
@@ -58,16 +35,6 @@ My approach:
 ### 🛠️ Engineering Projects
 
 [WIP]
-
----
-
-## 📈 Current Focus
-
-* Advanced Linux concepts
-* Cloud architecture patterns
-* Observability in distributed systems
-* Scaling applications and infrastructure
-* Improving English for global opportunities
 
 ---
 
