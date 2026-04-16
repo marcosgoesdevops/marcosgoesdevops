@@ -9,7 +9,7 @@ I focus on building reliable, scalable systems and improving how software is del
 
 ## 🧠 About Me
 
-I’m driven by understanding how systems behave in real-world scenarios — failures, scaling, latency, and everything in between.
+I’m driven by understanding how systems behave in real-world scenarios: failures, scaling, latency, and everything in between.
 
 My approach:
 
