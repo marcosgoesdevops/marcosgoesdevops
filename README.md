@@ -24,20 +24,6 @@ My approach:
 
 ---
 
-## 📂 Projects
-
-### 🚀 DevOps Projects
-
-[WIP]
-
----
-
-### 🛠️ Engineering Projects
-
-[WIP]
-
----
-
 ## 🤝 Let's Connect
 
 * 💼 Open to DevOps/SRE opportunities
